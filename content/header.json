@@ -1,17 +1,24 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "10% OFF na primeira compra - saiba mais",
+    "link": "/promotion",
+    "background": "#310000",
+    "color": "#e7d8c5"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Nossa História",
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Nossas Linhas"
+      },
+      {
+        "title": "Como Comprar "
+      },
+      {
+        "title": "Seus Pedidos"
       }
     ],
     "phone_wpp": true,
@@ -20,8 +27,10 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
-  "desktop_megamenu": false,
-  "search_input": true
+  "desktop_megamenu": true,
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
