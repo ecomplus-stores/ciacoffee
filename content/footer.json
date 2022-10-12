@@ -5,12 +5,37 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "Mais Informações",
+    "list": [
+      {
+        "text": "A Empresa"
+      },
+      {
+        "text": "Nossas Linhas"
+      },
+      {
+        "text": "Fale Conosco"
+      },
+      {
+        "text": "Como Comprar"
+      },
+      {
+        "text": "Formas de Pagamento e Envio"
+      },
+      {
+        "text": "Descontos e Ações da Cia Coffee"
+      },
+      {
+        "text": "FAQ | Dúvidas Gerais "
+      },
+      {
+        "text": "Política de Privacidade"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categorias",
+    "title": "Menu Cia Coffee",
     "list": []
   },
   "contacts": {
@@ -27,7 +52,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,12 +60,12 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
