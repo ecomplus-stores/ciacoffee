@@ -5,7 +5,8 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "document-description",
+      "enabled": true
     },
     {
       "type": "document-banner",
@@ -17,7 +18,12 @@
       "sort": "sales"
     },
     {
-      "type": "document-description",
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "info-bar",
       "enabled": true
     }
   ]
