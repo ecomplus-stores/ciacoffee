@@ -1,7 +1,30 @@
 {
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "search-engine",
+      "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
+    },
+    {
+      "type": "info-bar",
       "enabled": true
     }
   ]
