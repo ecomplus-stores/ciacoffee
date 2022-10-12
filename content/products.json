@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "type": "product-description",
+      "enabled": true
+    },
+    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
@@ -13,20 +17,23 @@
       }
     },
     {
+      "type": "product-specifications",
+      "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null,
+      "autoplay": 0
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
-    },
-    {
-      "type": "product-description",
-      "enabled": true
-    },
-    {
-      "type": "product-specifications",
-      "enabled": true
     }
   ]
 }
