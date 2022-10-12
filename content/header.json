@@ -25,7 +25,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/a-coffee?ACOFFE",
+      "/filipetto?FILIPETTO",
+      "/faria-coffee?FARIA´S COFFEE"
+    ],
     "random": 12,
     "full_width": true
   },
