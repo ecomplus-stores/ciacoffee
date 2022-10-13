@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "10% OFF na primeira compra - saiba mais",
-    "link": "/promotion",
-    "background": "#310000",
-    "color": "#e7d8c5"
+    "text": "",
+    "link": "",
+    "background": "",
+    "color": ""
   },
   "contacts_stripe": {
     "pages": [
