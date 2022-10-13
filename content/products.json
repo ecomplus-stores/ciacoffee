@@ -5,16 +5,16 @@
       "enabled": true
     },
     {
-      "type": "product-description",
-      "enabled": true
-    },
-    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
         "image": "",
         "title": ""
       }
+    },
+    {
+      "type": "product-description",
+      "enabled": true
     },
     {
       "type": "product-specifications",
