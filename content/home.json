@@ -30,14 +30,20 @@
       "offset": 0
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
+      "type": "page-title",
+      "title": "Café para eternizar momentos"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\nSomos uma empresa que foi pensada e criada no prazer de momentos marcados pelo aroma e sabor de um bom café. Concebida por amigos, nossa paixão por cafés especiais nos motivou a buscar aquilo que há de melhor no Brasil.\\\n\\\nConvide os amigos e viva uma experiência única simplesmente dizendo: “Vamos tomar um café?”.\n\n<!--EndFragment-->"
+    },
+    {
+      "type": "page-title",
+      "title": "Buscamos sempre o melhor café do mundo"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\nOs cafés super especiais da Cia Coffee pontuam acima de 84 pontos e são produzidos com grãos selecionados 100% arábica que são muito bem escolhidos para que nenhum grão ruim permaneça. Seguindo o protocolo da Specialty Coffee Association (SCA) nossos cafés passam por um controle sensorial onde são avaliadas 10 características: aroma, sabor, sabor residual, acidez, corpo, balanço, doçura, uniformidade, xícara limpa e avaliação geral.\n\n​\n\nBuscamos sempre atingir um ponto de torra perfeito (torra média-escura) afim de preservar tudo aquilo que há de melhor no café. Nossa moagem acontece de maneira única e passa por rigorosos controles de qualidade garantindo a extração do sabor especial que só quem provou nossos cafés conhece.\n\n<!--EndFragment-->"
     },
     {
       "type": "info-bar",
