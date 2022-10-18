@@ -31,9 +31,9 @@
       "/faria-coffee?Faria's Coffee"
     ],
     "random": 12,
-    "full_width": true
+    "full_width": false
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": true
