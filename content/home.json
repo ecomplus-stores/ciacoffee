@@ -47,6 +47,23 @@
       "title": "Faria's Coffee -  Deliciosas notas de amêndoas e caramelo"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/b-graos.png",
+          "link": "https://ciacoffee.netlify.app/graos"
+        },
+        {
+          "img": "/img/uploads/b-capsulas.png",
+          "link": "https://ciacoffee.netlify.app/capsulas"
+        },
+        {
+          "img": "/img/uploads/b-moido.png",
+          "link": "https://ciacoffee.netlify.app/moido"
+        }
+      ]
+    },
+    {
       "type": "page-title",
       "title": "Buscamos sempre o melhor café do mundo",
       "description": "compre também por :"
