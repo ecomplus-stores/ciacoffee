@@ -3,28 +3,6 @@
   "meta_description": "Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippetto e o Faria´s Coffee. ",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-10-12T03:00:00.000Z",
-          "end": "",
-          "img": "/img/uploads/acoffee-desktop.jpg",
-          "alt": "A Coffee seu café super especial ",
-          "mobile_img": "/img/uploads/acoffee-mobile.jpg",
-          "link": "https://ciacoffee.netlify.app/a-coffee"
-        },
-        {
-          "start": "2022-10-12T03:00:00.000Z",
-          "end": "",
-          "img": "/img/uploads/faria-desktop.jpg",
-          "link": "https://ciacoffee.netlify.app/faria-coffee",
-          "mobile_img": "/img/uploads/faria-mobile.jpg"
-        }
-      ]
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
@@ -38,6 +16,26 @@
       "markdown": "<!--StartFragment-->\n\nSomos uma empresa que foi pensada e criada no prazer de momentos marcados pelo aroma e sabor de um bom café. Concebida por amigos, nossa paixão por cafés especiais nos motivou a buscar aquilo que há de melhor no Brasil.\\\n\\\nConvide os amigos e viva uma experiência única simplesmente dizendo: “Vamos tomar um café?”.\n\n<!--EndFragment-->"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63471fe573321213f8a8c5f2:brands:A Coffee:/a-coffee",
+      "sort": "news",
+      "link": "https://ciacoffee.netlify.app/a-coffee",
+      "title": "A COFFEE - seu novo café Super Especial."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63471ffe73321213f8a8c60b:brands:Filipetto:/filipetto",
+      "sort": "news",
+      "link": "https://ciacoffee.netlify.app/filipetto",
+      "title": "Filipetto - o café forte e incorpado com a tradição e história italiana em seu processo."
+    },
+    {
       "type": "page-title",
       "title": "Buscamos sempre o melhor café do mundo"
     },
@@ -48,6 +46,16 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6347201d73321213f8a8c63a:brands:Faria's Coffee:/faria-coffee",
+      "sort": "news",
+      "link": "https://ciacoffee.netlify.app/faria-coffee",
+      "title": "Faria's Coffee -  Deliciosas notas de amêndoas e caramelo"
     }
   ]
 }
