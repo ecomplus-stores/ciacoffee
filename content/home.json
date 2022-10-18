@@ -61,6 +61,11 @@
       "title": "Faria's Coffee -  Deliciosas notas de amêndoas e caramelo"
     },
     {
+      "type": "page-title",
+      "title": "Buscamos sempre o melhor café do mundo",
+      "description": "compre também por :"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -78,13 +83,9 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Buscamos sempre o melhor café do mundo",
-      "description": "compre também por :"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\nOs cafés super especiais da Cia Coffee pontuam acima de 84 pontos e são produzidos com grãos selecionados 100% arábica que são muito bem escolhidos para que nenhum grão ruim permaneça. Seguindo o protocolo da Specialty Coffee Association (SCA) nossos cafés passam por um controle sensorial onde são avaliadas 10 características: aroma, sabor, sabor residual, acidez, corpo, balanço, doçura, uniformidade, xícara limpa e avaliação geral.\n\n​\n\nBuscamos sempre atingir um ponto de torra perfeito (torra média-escura) afim de preservar tudo aquilo que há de melhor no café. Nossa moagem acontece de maneira única e passa por rigorosos controles de qualidade garantindo a extração do sabor especial que só quem provou nossos cafés conhece.\n\n<!--EndFragment-->"
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     },
     {
       "type": "info-bar",
