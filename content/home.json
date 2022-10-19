@@ -23,8 +23,16 @@
       "sort": null
     },
     {
-      "type": "page-title",
-      "title": "Café para eternizar momentos"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-10-19T03:27:23.598Z",
+          "end": "",
+          "img": "/img/uploads/s-ciacoffee-1-6.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -75,6 +83,18 @@
         {
           "img": "/img/uploads/b-moido.png",
           "link": "https://ciacoffee.netlify.app/moido"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-10-19T03:28:13.756Z",
+          "end": "",
+          "img": "/img/uploads/s-ciacoffee-1-7.png"
         }
       ]
     },
