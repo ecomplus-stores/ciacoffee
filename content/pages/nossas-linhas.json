@@ -53,6 +53,10 @@
       "offset": 0
     },
     {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
