@@ -1,6 +1,11 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": true,
+  "sort_categories": [
+    "capsulas",
+    "moido",
+    "graos",
+    "todos-cia-coffee"
+  ],
+  "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
 }
