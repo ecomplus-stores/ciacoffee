@@ -1,0 +1,61 @@
+{
+  "title": "Nossas Linhas",
+  "meta_title": "Linhas Cia Coffee",
+  "meta_description": "Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippetto e o Faria´s Coffee.",
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-10-19T03:00:00.000Z",
+          "end": "",
+          "img": "/img/uploads/s-ciacoffee-1-7.png",
+          "mobile_img": "/img/uploads/s-ciacoffee-1-8.png",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63471fe573321213f8a8c5f2:brands:A Coffee:/a-coffee",
+      "sort": "news",
+      "title": "A COFFEE - seu Novo Café mais que Especial",
+      "link": "https://ciacoffee.netlify.app/a-coffee"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6347201d73321213f8a8c63a:brands:Faria's Coffee:/faria-coffee",
+      "sort": "news",
+      "title": "Faria's Coffee - Seu Café com Deliciosas Notas de Amendôas e Caramelo ",
+      "link": "https://ciacoffee.netlify.app/faria-coffee"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63471ffe73321213f8a8c60b:brands:Filipetto:/filipetto",
+      "sort": "news",
+      "title": "Filipetto - Seu Café Forte e Incorpado com a Tradição Italiana",
+      "link": "https://ciacoffee.netlify.app/filippeto"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ],
+  "body": "C﻿onheça as Linhas de Café da Cia Coffee"
+}
