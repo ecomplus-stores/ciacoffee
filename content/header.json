@@ -29,12 +29,12 @@
   },
   "categories_list": {
     "featured": [
-      "/capsulas?Cápsulas",
-      "/moido?Moído",
-      "/graos?Grãos",
       "/a-coffee?A Coffee",
       "/faria-coffee?Faria's Coffee",
       "/filipetto?Filipetto",
+      "/capsulas?Cápsulas",
+      "/moido?Moído",
+      "/graos?Grãos",
       "/todos-cia-coffee?Todos os Cafés"
     ],
     "random": 12,
