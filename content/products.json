@@ -21,19 +21,19 @@
       "enabled": true
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null,
-      "autoplay": 0
-    },
-    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null,
+      "autoplay": 0
     },
     {
       "type": "info-bar",
