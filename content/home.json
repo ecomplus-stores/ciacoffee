@@ -50,20 +50,34 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63471ffe73321213f8a8c60b:brands:Filipetto:/filipetto",
+      "collection_id": "6347201d73321213f8a8c63a:brands:Faria's Coffee:/faria-coffee",
       "sort": "news",
-      "link": "https://ciacoffee.netlify.app/filipetto",
-      "title": "Filipetto - o café forte e incorpado com a tradição e história italiana em seu processo."
+      "link": "https://ciacoffee.netlify.app/faria-coffee",
+      "title": "Faria's Coffee -  Deliciosas notas de amêndoas e caramelo"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6347201d73321213f8a8c63a:brands:Faria's Coffee:/faria-coffee",
+      "collection_id": "63471ffe73321213f8a8c60b:brands:Filipetto:/filipetto",
       "sort": "news",
-      "link": "https://ciacoffee.netlify.app/faria-coffee",
-      "title": "Faria's Coffee -  Deliciosas notas de amêndoas e caramelo"
+      "link": "https://ciacoffee.netlify.app/filippeto",
+      "title": "Filippeto - o café forte e incorpado com a tradição e história italiana em seu processo."
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-10-19T03:28:13.756Z",
+          "end": "",
+          "img": "/img/uploads/s-ciacoffee-1-7.png",
+          "link": "https://ciacoffee.netlify.app/capsulas",
+          "mobile_img": "/img/uploads/s-ciacoffee-1-8.png"
+        }
+      ]
     },
     {
       "type": "page-title",
@@ -84,20 +98,6 @@
         {
           "img": "/img/uploads/b-moido.png",
           "link": "https://ciacoffee.netlify.app/moido"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-10-19T03:28:13.756Z",
-          "end": "",
-          "img": "/img/uploads/s-ciacoffee-1-7.png",
-          "link": "https://ciacoffee.netlify.app/capsulas",
-          "mobile_img": "/img/uploads/s-ciacoffee-1-8.png"
         }
       ]
     },
