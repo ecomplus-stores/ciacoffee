@@ -30,7 +30,8 @@
         {
           "start": "2022-10-19T03:27:23.598Z",
           "end": "",
-          "img": "/img/uploads/s-ciacoffee-1-6.png"
+          "img": "/img/uploads/s-ciacoffee-1-6.png",
+          "mobile_img": "/img/uploads/s-ciacoffee-1-9.png"
         }
       ]
     },
@@ -95,7 +96,8 @@
           "start": "2022-10-19T03:28:13.756Z",
           "end": "",
           "img": "/img/uploads/s-ciacoffee-1-7.png",
-          "link": "https://ciacoffee.netlify.app/capsulas"
+          "link": "https://ciacoffee.netlify.app/capsulas",
+          "mobile_img": "/img/uploads/s-ciacoffee-1-8.png"
         }
       ]
     },
