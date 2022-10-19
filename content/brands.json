@@ -1,21 +1,21 @@
 {
   "sections": [
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "document-description",
-      "enabled": true
-    },
-    {
       "type": "document-banner",
+      "enabled": true
+    },
+    {
+      "type": "breadcrumbs",
       "enabled": true
     },
     {
       "type": "brand-retail",
       "enabled": true,
       "sort": "sales"
+    },
+    {
+      "type": "document-description",
+      "enabled": true
     },
     {
       "type": "brands-carousel",
