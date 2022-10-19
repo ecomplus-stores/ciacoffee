@@ -9,16 +9,19 @@
     "pages": [
       {
         "title": "Nossa História",
-        "link": "/pages/sobre-nos"
+        "link": "https://ciacoffee.netlify.app/pages/sobre-nos"
       },
       {
-        "title": "Nossas Linhas"
+        "title": "Nossas Linhas",
+        "link": "https://ciacoffee.netlify.app/pages/linhas"
       },
       {
-        "title": "Como Comprar "
+        "title": "Como Comprar ",
+        "link": "https://ciacoffee.netlify.app/pages/faq"
       },
       {
-        "title": "Seus Pedidos"
+        "title": "Meus Pedidos",
+        "link": "https://ciacoffee.netlify.app/#/account/orders"
       }
     ],
     "phone_wpp": true,
@@ -26,9 +29,13 @@
   },
   "categories_list": {
     "featured": [
+      "/capsulas?Cápsulas",
+      "/moido?Moído",
+      "/graos?Grãos",
       "/a-coffee?A Coffee",
+      "/faria-coffee?Faria's Coffee",
       "/filipetto?Filipetto",
-      "/faria-coffee?Faria's Coffee"
+      "/todos-cia-coffee?Todos os Cafés"
     ],
     "random": 12,
     "full_width": false
