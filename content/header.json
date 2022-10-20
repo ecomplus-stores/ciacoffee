@@ -21,7 +21,7 @@
       },
       {
         "title": "Meus Pedidos",
-        "link": "https://ciacoffee.netlify.app/#/account/orders"
+        "link": "https://ciacoffee.netlify.app/app/#/account/"
       }
     ],
     "phone_wpp": true,
