@@ -3,20 +3,6 @@
   "meta_description": "Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippetto e o Faria´s Coffee. ",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-10-18T12:28:57.519Z",
-          "end": "",
-          "img": "/img/uploads/s-ciacoffee-1.png",
-          "mobile_img": "/img/uploads/s-ciacoffee-1-1.png",
-          "link": "https://ciacoffee.netlify.app/a-coffee"
-        }
-      ]
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
@@ -31,7 +17,7 @@
           "start": "2022-10-19T03:27:23.598Z",
           "end": "",
           "img": "/img/uploads/s-ciacoffee-1-6.png",
-          "mobile_img": "/img/uploads/s-ciacoffee-1-9.png"
+          "mobile_img": "/img/uploads/cia-coffee-mobile.png"
         }
       ]
     },
@@ -73,9 +59,9 @@
         {
           "start": "2022-10-19T03:28:13.756Z",
           "end": "",
-          "img": "/img/uploads/s-ciacoffee-1-7.png",
+          "img": "/img/uploads/capsulas-desktop.png",
           "link": "https://ciacoffee.netlify.app/capsulas",
-          "mobile_img": "/img/uploads/s-ciacoffee-1-8.png"
+          "mobile_img": "/img/uploads/capsulas-mobile.png"
         }
       ]
     },
