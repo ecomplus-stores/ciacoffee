@@ -30,19 +30,6 @@
       "sort": null
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-10-19T03:27:23.598Z",
-          "end": "",
-          "img": "/img/uploads/s-ciacoffee-1-6.png",
-          "mobile_img": "/img/uploads/cia-coffee-mobile.png"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -83,28 +70,6 @@
           "img": "/img/uploads/capsulas-desktop.png",
           "link": "https://ciacoffee.netlify.app/capsulas",
           "mobile_img": "/img/uploads/capsulas-mobile.png"
-        }
-      ]
-    },
-    {
-      "type": "page-title",
-      "title": "Buscamos sempre o melhor café do mundo",
-      "description": "compre também por :"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/b-graos.png",
-          "link": "https://ciacoffee.netlify.app/graos"
-        },
-        {
-          "img": "/img/uploads/b-capsulas.png",
-          "link": "https://ciacoffee.netlify.app/capsulas"
-        },
-        {
-          "img": "/img/uploads/b-moido.png",
-          "link": "https://ciacoffee.netlify.app/moido"
         }
       ]
     },
