@@ -10,16 +10,9 @@
         {
           "start": "2022-10-18T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/acoffee-desktop.png",
+          "img": "/img/uploads/slide-desktop-lancamento.jpg",
           "link": "https://ciacoffee.netlify.app/a-coffee",
-          "mobile_img": "/img/uploads/s-ciacoffee-mobile.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/farias-desktop-1.png",
-          "mobile_img": "/img/uploads/farias-mobile-1.png",
-          "link": "https://ciacoffee.netlify.app/faria-coffee"
+          "mobile_img": ""
         }
       ]
     },
