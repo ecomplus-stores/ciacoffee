@@ -17,6 +17,20 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-10-19T03:28:13.756Z",
+          "end": "",
+          "img": "/img/uploads/fachadesktop.jpg",
+          "link": "",
+          "mobile_img": ""
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
@@ -51,20 +65,6 @@
       "sort": "news",
       "link": "https://ciacoffee.netlify.app/filippeto",
       "title": "Filippeto - o café forte e incorpado com a tradição e história italiana em seu processo."
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-10-19T03:28:13.756Z",
-          "end": "",
-          "img": "/img/uploads/capsulas-desktop.png",
-          "link": "https://ciacoffee.netlify.app/capsulas",
-          "mobile_img": "/img/uploads/capsulas-mobile.png"
-        }
-      ]
     },
     {
       "type": "dynamic-showcase",
