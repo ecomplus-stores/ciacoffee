@@ -61,11 +61,6 @@
       "title": "Filippeto - o café forte e intenso que traz a tradição e a história italiana em seu processo"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
-    },
-    {
       "type": "custom-content",
       "markdown": "<!--StartFragment-->\n\nSomos uma empresa que foi pensada e criada no prazer de momentos marcados pelo aroma e sabor de um bom café. Concebida por amigos, nossa paixão por cafés especiais nos motivou a buscar aquilo que há de melhor no Brasil.\\\n\\\nConvide os amigos e viva uma experiência única simplesmente dizendo: “Vamos tomar um café?”.\n\n<!--EndFragment-->"
     },
