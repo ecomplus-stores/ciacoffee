@@ -72,12 +72,6 @@
       "sort": "news"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/s-ciacoffee-1-2.png",
-      "mobile_img": "/img/uploads/s-ciacoffee-1-3.png",
-      "link": "https://ciacoffee.netlify.app/pages/sobre-nos"
-    },
-    {
       "type": "custom-content",
       "markdown": "<!--StartFragment-->\n\nSomos uma empresa que foi pensada e criada no prazer de momentos marcados pelo aroma e sabor de um bom café. Concebida por amigos, nossa paixão por cafés especiais nos motivou a buscar aquilo que há de melhor no Brasil.\\\n\\\nConvide os amigos e viva uma experiência única simplesmente dizendo: “Vamos tomar um café?”.\n\n<!--EndFragment-->"
     },
