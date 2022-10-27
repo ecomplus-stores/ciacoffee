@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "type": "document-description",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -15,10 +19,6 @@
       "type": "collection-retail",
       "enabled": true,
       "sort": "news"
-    },
-    {
-      "type": "document-description",
-      "enabled": true
     },
     {
       "type": "info-bar",
