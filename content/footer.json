@@ -37,7 +37,7 @@
     ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Menu Cia Coffee",
     "list": []
   },
