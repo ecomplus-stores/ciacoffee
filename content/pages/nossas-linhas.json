@@ -5,17 +5,31 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 6000,
       "full_width": true,
       "slides": [
         {
           "start": "2022-10-19T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/s-ciacoffee-1-7.png",
-          "mobile_img": "/img/uploads/s-ciacoffee-1-8.png",
+          "img": "/img/uploads/capsulas-categoria.jpg",
+          "mobile_img": "",
           "link": ""
+        },
+        {
+          "start": "2022-10-20T03:00:00.000Z",
+          "end": "",
+          "img": "/img/uploads/cia-coffee-moido.jpg"
+        },
+        {
+          "start": "2022-10-20T03:00:00.000Z",
+          "end": "",
+          "img": "/img/uploads/cia-graos.jpg"
         }
       ]
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
@@ -53,13 +67,9 @@
       "offset": 0
     },
     {
-      "type": "extra-page",
-      "enabled": true
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
   ],
-  "body": "C﻿onheça as Linhas de Café da Cia Coffee"
+  "body": "Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippetto e o Faria´s Coffee.\n\n**C﻿onheça as Linhas de Café da Cia Coffee**"
 }
