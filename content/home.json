@@ -55,20 +55,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6347201d73321213f8a8c63a:brands:Faria's:/faria-coffee",
+      "collection_id": "63471ffe73321213f8a8c60b:brands:Filippeto:/filippeto",
       "sort": "news",
-      "link": "https://ciacoffee.netlify.app/faria-coffee",
-      "title": "Faria's  -  Deliciosas notas de caramelo e doce de leite."
+      "link": "https://ciacoffee.netlify.app/filippeto",
+      "title": "Filippeto - Um café intenso e forte como a tradição italiana! "
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63471ffe73321213f8a8c60b:brands:Filippeto:/filippeto",
+      "collection_id": "6347201d73321213f8a8c63a:brands:Faria's:/faria-coffee",
       "sort": "news",
-      "link": "https://ciacoffee.netlify.app/filippeto",
-      "title": "Filippeto - Um café intenso e forte como a tradição italiana! "
+      "link": "https://ciacoffee.netlify.app/faria-coffee",
+      "title": "Faria's  -  Deliciosas notas de caramelo e doce de leite."
     },
     {
       "type": "banner-slider",
@@ -78,7 +78,8 @@
         {
           "start": "2022-10-20T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/3-desktop.jpg"
+          "img": "/img/uploads/3-desktop.jpg",
+          "link": "https://ciacoffee.netlify.app/capsulas"
         }
       ]
     },
