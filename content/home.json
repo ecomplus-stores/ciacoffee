@@ -84,10 +84,6 @@
       ]
     },
     {
-      "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\n<p>\n\nSomos uma empresa que foi pensada e criada no prazer de momentos marcados pelo aroma e sabor de um bom café. Concebida por amigos, nossa paixão por cafés especiais nos motivou a buscar aquilo que há de melhor no Brasil.\n\nConvide os amigos e viva uma experiência única simplesmente dizendo: </p>\n\n<h4>“Vamos tomar um café?”.</h4>\n\n\n\n\n\n\n\n``"
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
