@@ -5,11 +5,11 @@
       "enabled": true
     },
     {
-      "type": "breadcrumbs",
+      "type": "document-description",
       "enabled": true
     },
     {
-      "type": "document-description",
+      "type": "breadcrumbs",
       "enabled": true
     },
     {
