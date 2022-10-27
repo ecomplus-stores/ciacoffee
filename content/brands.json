@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "type": "document-description",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -12,10 +16,6 @@
       "type": "brand-retail",
       "enabled": true,
       "sort": "news"
-    },
-    {
-      "type": "document-description",
-      "enabled": true
     },
     {
       "type": "brands-carousel",
