@@ -88,9 +88,9 @@ if (mainCategories) {
           <% } %>
 
           <div class="menu__list">
-          <a class="menu__item" href="https://ciacoffee.netlify.app/a-coffee">A COFFEE </a>
-           <a class="menu__item" href="https://ciacoffee.netlify.app/faria-coffee">Faria's Coffee </a>
-          <a class="menu__item" href="https://ciacoffee.netlify.app/filipetto">Filippeto </a>
+          <span class="menu__item-icon"><a class="menu__item" href="https://ciacoffee.netlify.app/a-coffee">A COFFEE</a>
+           <span class="menu__item-icon"><a class="menu__item" href="https://ciacoffee.netlify.app/faria-coffee">Faria's</a>
+          <span class="menu__item-icon"><a class="menu__item" href="https://ciacoffee.netlify.app/filipetto">Filippeto </a>
             <% categoryParents[slug].forEach((subcategory, index) => { %>
               <% const hasSubmenu = Array.isArray(categoryParents[subcategory.slug]) %>
               <a
