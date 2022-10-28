@@ -27,20 +27,6 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-10-19T03:28:13.756Z",
-          "end": "",
-          "img": "/img/uploads/fachadesktopok.jpg",
-          "link": "",
-          "mobile_img": "/img/uploads/fachada-mobileok.jpg"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
