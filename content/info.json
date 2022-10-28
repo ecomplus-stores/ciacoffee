@@ -1,12 +1,15 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "title": "Envio Rápido e Seguro",
+    "link": "https://ciacoffee.netlify.app/pages/faq"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até x sem juros",
-    "title": "Aceitamos PIX | Boleto "
+    "text": "Parcele em até 3x sem juros",
+    "title": "Aceitamos PIX | Boleto ",
+    "link": "https://ciacoffee.netlify.app/pages/faq"
   },
   "exchange": {
     "show": false,
