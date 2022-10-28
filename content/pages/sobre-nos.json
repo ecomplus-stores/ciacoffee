@@ -2,7 +2,7 @@
   "title": "Cia Coffee ",
   "meta_title": "Cia Coffee",
   "meta_description": "Cia Coffee criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: **A Coffee**, **Filippetto** e o **Faria´s Coffee**.",
-  "body": "**Cia Coffee** mais do que uma nova marca de café: é um conceito criado para compartilhar o amor por uma das bebidas mais queridas do mundo. \n\nCriada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: **A Coffee**, **Filippetto** e o **Faria´s Coffee**. \n\nBeber Cia Coffee é uma experiência para ser compartilhada entre os amigos e família, pois pretendemos fazer companhia nos melhores momentos da sua vida!\n\n## **N﻿ossa História**\n\nSomos uma empresa que foi pensada e criada no prazer de momentos marcados pelo aroma e sabor de um bom café.\nConcebida por amigos, nossa paixão por cafés especiais nos motivou a buscar aquilo que há de melhor no Brasil.\nNossas marcas congregam histórias de pessoas e famílias que compartilham uma mesma paixão, um delicioso café.\nNossos grãos são produzidos e selecionados por produtores tradicionais que assim como a gente são apaixonadas pelo que fazem.\nNosso processo de torra e moagem em ambiente controlado levarão sempre a você o aroma e a intensidade de um café genuinamente especial superior a 83 pontos.\nConvide os amigos e viva uma experiência única simplesmente dizendo: *“Vamos tomar um café?”*.\n\n![](/img/uploads/cia-coffee-club.jpg)\n\n## **N﻿ossos Valores**\n\n* Integridade\n* C﻿omprometimento\n* M﻿elhoria Contínua\n* S﻿ustentabilidade\n\n## **N﻿ossos Contatos**\n\n[W﻿hatsapp ](https://wa.me/551147809695)",
+  "body": "<!--StartFragment-->\n\n<br>\n\n<br><br>\n\n<center><h1>Cia Coffee mais do que uma nova marca de café: é um conceito criado para compartilhar o amor por uma das bebidas mais queridas do mundo. </h1></center>\n\n<br>\n\n<center><p>Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippetto e o Faria´s Coffee. <p></center>\n\n\n\n<center><h4>Beber Cia Coffee é uma experiência para ser compartilhada entre os amigos e família, pois pretendemos fazer companhia nos melhores momentos da sua vida!</h4></center>\n\n\n\n<center> <h2>N﻿ossa História</h2><center>\n\n\n\n<br>\n\n<center><p>Somos uma empresa que foi pensada e criada no prazer de momentos marcados pelo aroma e sabor de um bom café.\n\nConcebida por amigos, nossa paixão por cafés especiais nos motivou a buscar aquilo que há de melhor no Brasil.\n\nNossas marcas congregam histórias de pessoas e famílias que compartilham uma mesma paixão, um delicioso café.\n\nNossos grãos são produzidos e selecionados por produtores tradicionais que assim como a gente são apaixonadas pelo que fazem.<center><p>\n\n<center>Nosso processo de torra e moagem em ambiente controlado levarão sempre a você o aroma e a intensidade de um café genuinamente especial superior a 83 pontos.</center>\n\n<br>\n\n\n\n<center><h3>Convide os amigos e viva uma experiência única simplesmente dizendo: \n\n“Vamos tomar um café?”.</h3></center>\n\n\n\n<!--EndFragment-->",
   "sections": [
     {
       "type": "breadcrumbs",
@@ -10,7 +10,7 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "full_width": true,
       "slides": [
         {
@@ -25,8 +25,20 @@
       "enabled": true
     },
     {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-10-20T03:00:00.000Z",
+          "end": "",
+          "img": "/img/uploads/cia-coffee-club.jpg"
+        }
+      ]
+    },
+    {
       "type": "custom-html",
-      "html": "<p><span class=\"footer__list-icon\"><i class=\"i-phone\"></i> </span>\n<a href=\"tel:+1147809695\" target=\"_blank\" rel=\"noopener\">(11) 4780-9695</a>\n<br><a href=\"mailto:comercial@ciacoffee.club\" target=\"_blank\" rel=\"noopener\">comercial@ciacoffee.club</a>\n<br>Acompanhe nas redes: <br>\n<a href=\"https://www.instagram.com/ciacoffee.club/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c; font-size:28px;\"><i class=\"i-instagram\"></i> </a>\n<a href=\"https://www.facebook.com/CiaCoffee.club\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998;font-size:28px;\"><i class=\"i-facebook\"></i> </a>\n<a href=\"https://www.youtube.com/channel/UCKYPuLgteZbP2k0fUnOTu2A\" target=\"_blank\" rel=\"noopener\" aria-label=\"youtube\" style=\"color: #ff0000;font-size:28px;\"><i class=\"i-youtube\"></i> </a>\n<a href=\"https://www.pinterest.com/ciacoffee\" target=\"_blank\" rel=\"noopener\" aria-label=\"pinterest\" style=\"color: #bd081c;font-size:28px;\"><i class=\"i-pinterest\"></i></a>\n</p>"
+      "html": "<center><h2>Nossos Valores</center></h2>\n\n* Integridade\n* Comprometimento\n* Melhoria Contínua\n* Sustentabilidade\n\n<center><h2>Nossos Contatos</center></h2>\n\n<center>\n\n<p><span class=\"footer__list-icon\"><i class=\"i-phone\"></i> </span>\n<a href=\"tel:+1147809695\" target=\"_blank\" rel=\"noopener\">(11) 4780-9695</a>\n<br><a href=\"mailto:comercial@ciacoffee.club\" target=\"_blank\" rel=\"noopener\">comercial@ciacoffee.club</a>\n<br>Acompanhe nas redes: <br>\n<a href=\"https://www.instagram.com/ciacoffee.club/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c; font-size:28px;\"><i class=\"i-instagram\"></i> </a>\n<a href=\"https://www.facebook.com/CiaCoffee.club\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998;font-size:28px;\"><i class=\"i-facebook\"></i> </a>\n<a href=\"https://www.youtube.com/channel/UCKYPuLgteZbP2k0fUnOTu2A\" target=\"_blank\" rel=\"noopener\" aria-label=\"youtube\" style=\"color: #ff0000;font-size:28px;\"><i class=\"i-youtube\"></i> </a>\n<a href=\"https://www.pinterest.com/ciacoffee\" target=\"_blank\" rel=\"noopener\" aria-label=\"pinterest\" style=\"color: #bd081c;font-size:28px;\"><i class=\"i-pinterest\"></i></a>\n</p></center>\n"
     },
     {
       "type": "brands-carousel",
