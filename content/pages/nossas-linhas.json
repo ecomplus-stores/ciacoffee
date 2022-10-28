@@ -62,20 +62,6 @@
       "link": "https://ciacoffee.netlify.app/filippeto"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-10-20T03:00:00.000Z",
-          "end": "",
-          "img": "/img/uploads/s-ciacoffee-1-2.png",
-          "mobile_img": "/img/uploads/s-ciacoffee-1-3.png",
-          "link": "https://ciacoffee.netlify.app/pages/sobre-nos"
-        }
-      ]
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
