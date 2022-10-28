@@ -13,16 +13,6 @@
           "img": "/img/uploads/slide-desktop-lancamento.jpg",
           "link": "https://ciacoffee.netlify.app/a-coffee",
           "mobile_img": ""
-        },
-        {
-          "start": "2022-10-19T03:00:00.000Z",
-          "end": "",
-          "img": "/img/uploads/lancamento2.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/lancamento31.jpg"
         }
       ]
     },
