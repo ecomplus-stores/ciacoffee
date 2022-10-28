@@ -4,35 +4,28 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": false,
+    "list_pages": true,
     "title": "Mais Informações",
     "list": [
       {
-        "text": "A Empresa"
+        "text": "Cia Coffee",
+        "url": "https://ciacoffee.netlify.app/pages/sobre-nos"
       },
       {
-        "text": "Nossas Linhas"
+        "text": "Nossas Linhas",
+        "url": "https://ciacoffee.netlify.app/pages/nossas-linhas"
       },
       {
-        "text": "Fale Conosco"
+        "text": "Para Empresas",
+        "url": "https://ciacoffee.netlify.app/pages/para-empresas"
       },
       {
-        "text": "Como Comprar"
+        "text": "Dúvidas Frequentes",
+        "url": "https://ciacoffee.netlify.app/pages/faq"
       },
       {
-        "text": "Formas de Pagamento e Envio"
-      },
-      {
-        "text": "Descontos e Ações da Cia Coffee"
-      },
-      {
-        "text": "FAQ | Dúvidas Gerais "
-      },
-      {
-        "text": "Política de Privacidade"
-      },
-      {
-        "text": "Para Empresas"
+        "text": "Segurança e Privacidade",
+        "url": "https://ciacoffee.netlify.app/pages/faq"
       }
     ]
   },
