@@ -1,7 +1,7 @@
 {
   "domain": "ciacoffee.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#310000",
+  "primary_color": "#291010",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/icon.png",
   "icons_font": "bootstrap-icons",
   "country_code": "BR",
-  "secondary_color": "#e7d8c5",
+  "secondary_color": "#96573c",
   "icon": "/img/uploads/icon.png",
   "store_id": 51324,
   "description": "Cia Coffee mais do que uma nova marca de café: é um conceito criado para compartilhar o amor por uma das bebidas mais queridas do mundo.\nCriada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippetto e o Faria´s Coffee.",
