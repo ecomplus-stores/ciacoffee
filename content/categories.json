@@ -13,9 +13,6 @@
       "enabled": true
     },
     {
-      "type": "page-title"
-    },
-    {
       "type": "category-retail",
       "enabled": true,
       "sort": "news"
