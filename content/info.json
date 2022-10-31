@@ -1,14 +1,14 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil",
-    "title": "Envio Rápido e Seguro",
+    "text": " Frete Grátis para região Sudeste nas compras a partir de R$140 ",
+    "title": "Envio Rápido e Seguro para Todo Brasil",
     "link": "https://ciacoffee.netlify.app/pages/faq"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros",
-    "title": "Aceitamos PIX | Boleto ",
+    "text": "Parcele em até 3x sem juros nas compras a partir de R$100 ",
+    "title": "5% de desconto no PIX ou ",
     "link": "https://ciacoffee.netlify.app/pages/faq"
   },
   "exchange": {
