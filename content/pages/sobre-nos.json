@@ -43,8 +43,9 @@
     },
     {
       "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
+      "limit": 6,
+      "offset": 0,
+      "autoplay": 4000
     },
     {
       "type": "info-bar",
