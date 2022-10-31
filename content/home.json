@@ -21,6 +21,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "635c64e273321213f8c1b578:brands:Combos Cia Coffee:/combos-cia-coffee",
+      "sort": "news",
+      "title": "Combos Cia Cofffe - Lançamento",
+      "link": "https://ciacoffee.netlify.app/combos-cia-coffee"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "63471fe573321213f8a8c5f2:brands:A Coffee:/a-coffee",
       "sort": "news",
       "link": "https://ciacoffee.netlify.app/a-coffee",
