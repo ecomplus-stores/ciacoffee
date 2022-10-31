@@ -12,7 +12,8 @@
         {
           "start": "2022-10-11T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/ciacoffesobre.png"
+          "img": "/img/uploads/cia-coffee-sobre.jpg",
+          "mobile_img": "/img/uploads/cia-coffee-sobre1.jpg"
         }
       ]
     },
@@ -43,7 +44,7 @@
     },
     {
       "type": "brands-carousel",
-      "limit": 6,
+      "limit": 9,
       "offset": 0,
       "autoplay": 4000
     },
