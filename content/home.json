@@ -1,6 +1,6 @@
 {
   "meta_title": "Cia Coffee | Compre Café On-line : A Coffee, Filippetto e o Faria´s Coffee",
-  "meta_description": "Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippetto e o Faria´s Coffee. ",
+  "meta_description": "Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippeto e o Faria´s Coffee. ",
   "sections": [
     {
       "type": "banner-slider",
@@ -10,9 +10,9 @@
         {
           "start": "2022-10-18T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/slide-desktop-lancamento.jpg",
+          "img": "/img/uploads/slide-desktop-final.jpg",
           "link": "https://ciacoffee.netlify.app/a-coffee",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/mobile-desktop-ok.jpg"
         }
       ]
     },
