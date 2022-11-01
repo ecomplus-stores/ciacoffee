@@ -10,9 +10,21 @@
         {
           "start": "2022-10-18T03:00:00.000Z",
           "end": "",
+          "img": "/img/uploads/slide-desktop-final.1jpg.jpg",
+          "link": "https://ciacoffee.com.br/capsulas",
+          "mobile_img": ""
+        },
+        {
+          "start": "2022-10-31T03:00:00.000Z",
+          "end": "",
           "img": "/img/uploads/slide-desktop-final.jpg",
-          "link": "https://ciacoffee.netlify.app/a-coffee",
-          "mobile_img": "/img/uploads/mobile-desktop-ok.jpg"
+          "link": "https://ciacoffee.com.br/combos-cia-coffee"
+        },
+        {
+          "start": "2022-10-31T03:00:00.000Z",
+          "end": "",
+          "img": "/img/uploads/slide-desktop-capsulas-cmbo.jpg",
+          "link": "https://ciacoffee..com.br/kit-degustacao-cia-coffee-capsulas"
         }
       ]
     },
@@ -23,7 +35,7 @@
       "page": 1,
       "collection_id": "63471fe573321213f8a8c5f2:brands:A Coffee:/a-coffee",
       "sort": "news",
-      "link": "https://ciacoffee.netlify.app/a-coffee",
+      "link": "https://ciacoffee.com.br/a-coffee",
       "title": "A COFFEE - seu novo café Super Especial "
     },
     {
@@ -33,7 +45,7 @@
       "page": 1,
       "collection_id": "63471ffe73321213f8a8c60b:brands:Filippeto:/filippeto",
       "sort": "news",
-      "link": "https://ciacoffee.netlify.app/filippeto",
+      "link": "https://ciacoffee.com.br/filippeto",
       "title": "Filippeto - Um café intenso e forte como a tradição italiana!"
     },
     {
@@ -43,7 +55,7 @@
       "page": 1,
       "collection_id": "6347201d73321213f8a8c63a:brands:Faria's:/faria-coffee",
       "sort": "news",
-      "link": "https://ciacoffee.netlify.app/faria-coffee",
+      "link": "https://ciacoffee.com.br/faria-coffee",
       "title": "Faria's  -  Deliciosas notas de caramelo e doce de leite."
     },
     {
@@ -54,7 +66,7 @@
       "collection_id": "635c64e273321213f8c1b578:brands:Combos Cia Coffee:/combos-cia-coffee",
       "sort": "news",
       "title": "Combos Cia Cofffee - Lançamento",
-      "link": "https://ciacoffee.netlify.app/combos-cia-coffee"
+      "link": "https://ciacoffee.com.br/combos-cia-coffee"
     },
     {
       "type": "banner-slider",
@@ -65,7 +77,7 @@
           "start": "2022-10-20T03:00:00.000Z",
           "end": "",
           "img": "/img/uploads/3-desktop.jpg",
-          "link": "https://ciacoffee.netlify.app/capsulas"
+          "link": "https://ciacoffee.com.br/capsulas"
         }
       ]
     },
