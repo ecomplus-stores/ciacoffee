@@ -13,17 +13,19 @@
           "end": "",
           "img": "/img/uploads/capsulas-categoria.jpg",
           "mobile_img": "",
-          "link": ""
+          "link": "https://ciacoffee.com.br/capsulas"
         },
         {
           "start": "2022-10-20T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/cia-coffee-moido.jpg"
+          "img": "/img/uploads/cia-coffee-moido.jpg",
+          "link": "https://ciacoffee.com.br/moido"
         },
         {
           "start": "2022-10-20T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/cia-graos.jpg"
+          "img": "/img/uploads/cia-graos.jpg",
+          "link": "https://ciacoffee.com.br/graos"
         }
       ]
     },
@@ -39,7 +41,7 @@
       "collection_id": "63471fe573321213f8a8c5f2:brands:A Coffee:/a-coffee",
       "sort": "news",
       "title": "A COFFEE - seu Novo Café Super Especial",
-      "link": "https://ciacoffee.netlify.app/a-coffee"
+      "link": "https://ciacoffee.com.br/a-coffee"
     },
     {
       "type": "collection-shelf",
@@ -49,7 +51,7 @@
       "collection_id": "6347201d73321213f8a8c63a:brands:Faria's Coffee:/faria-coffee",
       "sort": "news",
       "title": "Faria's Coffee - Seu Café com Deliciosas Notas de Amêndoas e Caramelo ",
-      "link": "https://ciacoffee.netlify.app/faria-coffee"
+      "link": "https://ciacoffee.com.br/faria-coffee"
     },
     {
       "type": "collection-shelf",
@@ -59,7 +61,7 @@
       "collection_id": "63471ffe73321213f8a8c60b:brands:Filipetto:/filipetto",
       "sort": "news",
       "title": "Filippeto - Um café intenso e forte como a tradição italiana!",
-      "link": "https://ciacoffee.netlify.app/filippeto"
+      "link": "https://ciacoffee.com.br/filippeto"
     },
     {
       "type": "brands-carousel",
