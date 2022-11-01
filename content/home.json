@@ -29,6 +29,19 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-10-31T03:00:00.000Z",
+          "end": "",
+          "img": "/img/uploads/fachadadesktop.jpg",
+          "mobile_img": "/img/uploads/fachada-mobile.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
