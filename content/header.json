@@ -39,7 +39,7 @@
       "/combos-cia-coffee?Combos Cia Coffee"
     ],
     "random": 12,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
