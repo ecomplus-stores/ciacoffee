@@ -9,19 +9,19 @@
     "pages": [
       {
         "title": "Nossa História",
-        "link": "https://ciacoffee.netlify.app/pages/sobre-nos"
+        "link": "https://www.ciacoffee.com.br/pages/sobre-nos"
       },
       {
         "title": "Nossas Linhas",
-        "link": "https://ciacoffee.netlify.app/pages/nossas-linhas"
+        "link": "https://www.ciacoffee.com.br/pages/nossas-linhas"
       },
       {
         "title": "Como Comprar ",
-        "link": "https://ciacoffee.netlify.app/pages/faq"
+        "link": "https://www.ciacoffee.com.br/pages/faq"
       },
       {
         "title": "Meus Pedidos",
-        "link": "https://ciacoffee.netlify.app/app/#/account/"
+        "link": "https://www.ciacoffee.com.br/app/#/account/"
       }
     ],
     "phone_wpp": true,
