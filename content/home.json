@@ -6,7 +6,16 @@
       "type": "banner-slider",
       "autoplay": 7000,
       "full_width": true,
-      "slides": []
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/slide-20desconto.jpg",
+          "mobile_img": "/img/uploads/slide-20desconto-mobile.jpg",
+          "link": "https://www.ciacoffee.com.br/combos-cia-coffee",
+          "alt": "Combos Cia Coffee- Ganhe R$20 de desconto nas compras acima de R$110 "
+        }
+      ]
     },
     {
       "type": "banner-slider",
