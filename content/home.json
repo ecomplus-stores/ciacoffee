@@ -6,30 +6,7 @@
       "type": "banner-slider",
       "autoplay": 7000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "2022-10-18T03:00:00.000Z",
-          "end": "",
-          "img": "/img/uploads/slide-desktop-final.1jpg.jpg",
-          "link": "https://ciacoffee.com.br/capsulas",
-          "mobile_img": "/img/uploads/mobile-capsulas.jpg"
-        },
-        {
-          "start": "2022-10-31T03:00:00.000Z",
-          "end": "",
-          "img": "/img/uploads/slide-desktop-final.jpg",
-          "link": "https://www.ciacoffee.com.br/graos",
-          "alt": "Café em Grãos Cia Cofffee",
-          "mobile_img": "/img/uploads/mobile-pacootes.jpg"
-        },
-        {
-          "start": "2022-10-31T03:00:00.000Z",
-          "end": "",
-          "img": "/img/uploads/slide-desktop-capsulas-cmbo.jpg",
-          "link": "https://www.ciacoffee.com.br/kit-degustacao-cia-coffee-capsulas",
-          "mobile_img": "/img/uploads/mobile-60.jpg"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "banner-slider",
