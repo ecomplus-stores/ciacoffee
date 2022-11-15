@@ -74,7 +74,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "635c64e273321213f8c1b578:brands:Combos Cia Coffee:/combos-cia-coffee",
-      "sort": "sales",
+      "sort": "lowest_price",
       "title": "Combos Cia Cofffee - Lançamento",
       "link": "https://ciacoffee.com.br/combos-cia-coffee"
     },
