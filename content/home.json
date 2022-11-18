@@ -97,7 +97,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<script>\n   const llPopupId=\"BB43F306EB934630AB1D89A144E35EE6\";\n   var llP = document.createElement(\"script\");\n   llP.setAttribute(\"src\", \"https://pagina.group/scripts/capture/capture-popup.js\");\n   document.addEventListener(\"DOMContentLoaded\", function() {\n      document.body.appendChild(llP);\n   });\n</script>\n"
+      "html": "<script>\n   const llPopupId=\"BB43F306EB934630AB1D89A144E35EE6\";\n   var llP = document.createElement(\"script\");\n   llP.setAttribute(\"src\", \"https://pagina.group/scripts/capture/capture-popup.js\");\n   document.addEventListener(\"DOMContentLoaded\", function() {\n      document.body.appendChild(llP);\n   });\n</script>"
     }
   ]
 }
