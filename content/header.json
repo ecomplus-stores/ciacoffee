@@ -35,8 +35,7 @@
       "/capsulas?Cápsulas",
       "/moido?Moído",
       "/graos?Grãos",
-      "/todos-cia-coffee?Todos os Cafés",
-      "/combos-cia-coffee?Combos Cia Coffee"
+      "/todos-cia-coffee?Todos os Cafés"
     ],
     "random": 12,
     "full_width": true
