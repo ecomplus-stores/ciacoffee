@@ -1,0 +1,19 @@
+{
+  "title": "Cupom Primeira Compra",
+  "body": "<!--StartFragment-->\n\nObrigado pelo seu cadastro.☕\n\nCopie e cole seu cupom no seu carrinho de compras: BOASVINDAS\n\n\\*Cupom válido somente para primeira compra na loja ciacoffee.com.br\n\n\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
