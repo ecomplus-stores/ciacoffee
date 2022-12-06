@@ -5,8 +5,17 @@
   "body": "Você tem uma cafeteria, restaurante ou uma padaria e deseja oferecer um café diferenciado para o seu cliente?  \n\nImagine você que tem um negócio e quer oferecer um tratamento super especial até mesmo com uma xícara de café!\n\nA **Cia Coffee** oferece toda a sua qualidade também para a versão varejo. \n\nTudo com condições especiais, rapidez e qualidade para você que necessita de uma quantidade maior de café. \n\nEntre em contato com nosso departamento comercial: \n\n<!--StartFragment-->",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ciacoffesobre.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-12-06T18:12:45.891Z",
+          "end": "",
+          "img": "/img/uploads/cia-coffee-sobre.jpg",
+          "mobile_img": "/img/uploads/cia-coffee-sobre1.jpg"
+        }
+      ]
     },
     {
       "type": "breadcrumbs",
