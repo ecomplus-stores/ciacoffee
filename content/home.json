@@ -58,7 +58,7 @@
           "start": "2022-10-31T03:00:00.000Z",
           "end": "",
           "img": "/img/uploads/__fachadadesktop.webp",
-          "mobile_img": "/img/uploads/fachada-mobile.jpg"
+          "mobile_img": "/img/uploads/__fachada-mobile.webp"
         }
       ]
     },
