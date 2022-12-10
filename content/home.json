@@ -57,7 +57,7 @@
         {
           "start": "2022-10-31T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/fachadadesktop.jpg",
+          "img": "/img/uploads/__fachadadesktop.webp",
           "mobile_img": "/img/uploads/fachada-mobile.jpg"
         }
       ]
@@ -110,7 +110,7 @@
         {
           "start": "2022-10-20T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/3-desktop.jpg",
+          "img": "/img/uploads/__3-desktop.webp",
           "link": "https://ciacoffee.com.br/capsulas"
         }
       ]
