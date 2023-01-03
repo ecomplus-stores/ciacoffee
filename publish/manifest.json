@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.27981cac7f878a09ee45b0ac2dd9bcb5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0405871acb1c03e1dcea16a7878c5a09.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.df96ef89bb9402a37109dab1db4cdbe4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.74fbe19ffc8d854f96af23d1a1ae94f3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.729b8fb9f5605bd5745bcdb916990506.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Cia Coffee ",
+  "short_name": "Cia Coffee",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Cia Coffee mais do que uma nova marca de café: é um conceito criado para compartilhar o amor por uma das bebidas mais queridas do mundo.\nCriada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippeto e o Faria´s Coffee.",
+  "background_color": "#ffffff",
+  "theme_color": "#291010"
+}
