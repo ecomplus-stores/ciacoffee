@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/carna-coffeejpeg.jpg",
+          "link": "https://www.ciacoffee.com.br/combos-cia-coffee",
+          "mobile_img": "/img/uploads/mobile-carana-coffee.jpg"
+        },
+        {
           "start": "2022-11-23T00:11:12.869Z",
           "end": "",
           "img": "/img/uploads/campanha-prove-e-aprove.png",
@@ -24,27 +31,12 @@
           "alt": "Conheça Cia Coffee"
         },
         {
-          "start": "2022-11-18T20:01:52.537Z",
-          "end": "",
-          "img": "/img/uploads/campanha-capsulas-wide.png",
-          "mobile_img": "/img/uploads/campanha-promo-mobile-1-.png",
-          "link": "https://www.ciacoffee.com.br/capsulas",
-          "alt": "Aproveite o CUPOM e Garanta seu Brinde Cia Coffee"
-        },
-        {
           "start": "2022-11-15T00:17:13.353Z",
           "end": "",
           "img": "/img/uploads/slide-30capsulas-nov.jpg",
           "mobile_img": "/img/uploads/slide-30capsulas-nov-mobile.jpg",
           "link": "https://www.ciacoffee.com.br/kit-degustacao-cia-coffee-capsulas-30",
           "alt": "30 cápsulas da Cia Coffee para você degustar nossas linhas "
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/carna-coffeejpeg.jpg",
-          "link": "https://www.ciacoffee.com.br/combos-cia-coffee",
-          "mobile_img": "/img/uploads/mobile-carana-coffee.jpg"
         }
       ]
     },
