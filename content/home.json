@@ -38,6 +38,13 @@
           "mobile_img": "/img/uploads/slide-30capsulas-nov-mobile.jpg",
           "link": "https://www.ciacoffee.com.br/kit-degustacao-cia-coffee-capsulas-30",
           "alt": "30 cápsulas da Cia Coffee para você degustar nossas linhas "
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/carna-coffeejpeg.jpg",
+          "link": "https://www.ciacoffee.com.br/combos-cia-coffee",
+          "mobile_img": "/img/uploads/mobile-carana-coffee.jpg"
         }
       ]
     },
