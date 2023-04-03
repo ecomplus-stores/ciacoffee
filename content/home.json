@@ -4,37 +4,6 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 7000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-11-23T00:11:12.869Z",
-          "end": "",
-          "img": "/img/uploads/campanha-prove-e-aprove.png",
-          "mobile_img": "/img/uploads/aprove-e-prove-mobile.png",
-          "link": "https://www.ciacoffee.com.br/combos-cia-coffee",
-          "alt": "Cia Coffee- Confira nossos kit de degustação "
-        },
-        {
-          "start": "2022-11-23T00:11:56.252Z",
-          "end": "",
-          "img": "/img/uploads/campanha-sebastian2.png",
-          "mobile_img": "/img/uploads/campanha-promo-mobile.png",
-          "link": "https://www.ciacoffee.com.br/combos-cia-coffee",
-          "alt": "Conheça Cia Coffee"
-        },
-        {
-          "start": "2022-11-15T00:17:13.353Z",
-          "end": "",
-          "img": "/img/uploads/slide-30capsulas-nov.jpg",
-          "mobile_img": "/img/uploads/slide-30capsulas-nov-mobile.jpg",
-          "link": "https://www.ciacoffee.com.br/kit-degustacao-cia-coffee-capsulas-30",
-          "alt": "30 cápsulas da Cia Coffee para você degustar nossas linhas "
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
       "autoplay": 0,
       "full_width": true,
       "slides": [
