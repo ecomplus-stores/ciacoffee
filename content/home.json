@@ -5,13 +5,14 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/bannerok.jpg",
-          "mobile_img": "/img/uploads/pascoa-mobile1.jpg"
+          "mobile_img": "/img/uploads/pascoa-mobile1.jpg",
+          "link": "https://www.ciacoffee.com.br/combos-cia-coffee"
         },
         {
           "start": "",
