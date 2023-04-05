@@ -16,10 +16,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/3-desktop.jpg"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": true,
