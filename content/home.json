@@ -3,6 +3,19 @@
   "meta_description": "Encontre seu Café Super Especial na Cia Coffee, a melhor qualidade com sabores únicos : A Coffee, Filippeto e o Faria´s Coffee. As cápsulas compatíveis com as máquinas Nespresso. Cafés em grãos e moído, em pó.",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bannerok.jpg",
+          "mobile_img": "/img/uploads/pascoa-mobile1.jpg"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/3-desktop.jpg"
     },
