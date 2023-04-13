@@ -10,16 +10,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/bannerok.jpg",
-          "mobile_img": "/img/uploads/pascoa-mobile1.jpg",
-          "link": "https://www.ciacoffee.com.br/combos-cia-coffee"
+          "img": "/img/uploads/campanha-prove-e-aprove.png",
+          "mobile_img": "/img/uploads/aproovado.jpeg",
+          "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/campanha-prove-e-aprove.png",
-          "mobile_img": "/img/uploads/aproovado.jpeg",
-          "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
+          "img": "/img/uploads/dia-das-maes1.png",
+          "mobile_img": "/img/uploads/dia-das-maes-mobile.png"
         }
       ]
     },
