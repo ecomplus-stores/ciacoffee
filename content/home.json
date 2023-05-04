@@ -10,6 +10,13 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/_banner-1-ciacoffee-assinatura.webp",
+          "mobile_img": "/img/uploads/_ciacoffee-assinatura-mobile.webp",
+          "alt": "Clube de assinatura Cia Coffee "
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/dia-das-maes2.png",
           "mobile_img": "/img/uploads/mae-mobile-2.png"
         },
