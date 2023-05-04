@@ -3,6 +3,12 @@
   functions = "functions-zip"
 
 [[redirects]]
+  from = "/product-page/faria-s-coffee"
+  to = "/faria-coffeee"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/.netlify/functions/ssr?slug=:splat"
   status = 200
@@ -56,12 +62,6 @@
   for = "/assets/*"
   [headers.values]
     Cache-Control = "public, max-age=86400, s-maxage=600"
-
-[[redirects]]
-from = "/product-page/faria-s-coffee"
-to = "/faria-coffeee"
-status = 301
-force = true
 
 [[redirects]]
 from = "/product-page/café-filippeto-torrado-em-grãos-500g"
