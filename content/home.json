@@ -32,6 +32,12 @@
           "end": "",
           "img": "/img/uploads/3-desktop.jpg",
           "mobile_img": "/img/uploads/slide-30capsulas-nov-mobile.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-2.jpg",
+          "mobile_img": "/img/uploads/mobile2.png"
         }
       ]
     },
