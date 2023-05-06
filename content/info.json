@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": " Frete Grátis para região Sudeste nas compras a partir de R$140 ",
+    "text": " Frete grátis para todo o Brasil nas compras a partir de R$100",
     "title": "Envio Rápido e Seguro para Todo Brasil",
     "link": "https://ciacoffee.com.br/pages/faq"
   },
@@ -17,6 +17,7 @@
   },
   "promo": {
     "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "",
+    "title": "Assinatura com 25% de desconto em todos os produtos "
   }
 }
