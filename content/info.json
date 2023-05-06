@@ -16,8 +16,8 @@
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": false,
-    "text": "",
+    "show": true,
+    "text": "Frete grátis para compras acima de R$100 ",
     "title": "Assinatura com 25% de desconto em todos os produtos "
   }
 }
