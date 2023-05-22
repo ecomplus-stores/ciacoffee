@@ -55,6 +55,14 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "sort": "sales",
+      "title": "Os mais pedidos "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "63471fe573321213f8a8c5f2:brands:A Coffee:/a-coffee",
       "sort": "news",
       "link": "https://ciacoffee.com.br/a-coffee",
