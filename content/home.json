@@ -93,6 +93,10 @@
       "link": "https://ciacoffee.com.br/combos-cia-coffee"
     },
     {
+      "type": "custom-html",
+      "html": "<center><iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/3bepVlwzC4o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n  </center>"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": true,
