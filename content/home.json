@@ -33,7 +33,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/sp-coffee-ok.png",
-          "link": "https://www.saopaulocoffeefestival.com.br/"
+          "link": "https://www.saopaulocoffeefestival.com.br/",
+          "mobile_img": "/img/uploads/sp-copa-mobile.jpg"
         }
       ]
     },
