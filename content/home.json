@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/campanha-prove-e-aprove.png",
+          "mobile_img": "/img/uploads/aproovado.jpeg",
+          "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
+        },
+        {
           "start": "2023-05-04T16:19:09.914Z",
           "end": "",
           "img": "/img/uploads/_banner-1-ciacoffee-assinatura.webp",
@@ -20,13 +27,6 @@
           "end": "",
           "img": "/img/uploads/banner-2.jpg",
           "mobile_img": "/img/uploads/mobile2.png",
-          "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/campanha-prove-e-aprove.png",
-          "mobile_img": "/img/uploads/aproovado.jpeg",
           "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
         }
       ]
