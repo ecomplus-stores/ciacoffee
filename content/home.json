@@ -10,12 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/diapais.jpeg",
-          "mobile_img": "/img/uploads/diapais_mobile.jpeg"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/campanha-prove-e-aprove.png",
           "mobile_img": "/img/uploads/aproovado.jpeg",
           "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
@@ -34,6 +28,12 @@
           "img": "/img/uploads/banner-2.jpg",
           "mobile_img": "/img/uploads/mobile2.png",
           "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/diapais.jpg",
+          "mobile_img": "/img/uploads/diapais_mobile.jpg"
         }
       ]
     },
