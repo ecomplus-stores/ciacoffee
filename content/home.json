@@ -28,6 +28,11 @@
           "img": "/img/uploads/banner-2.jpg",
           "mobile_img": "/img/uploads/mobile2.png",
           "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/diapais-desktop.jpg"
         }
       ]
     },
