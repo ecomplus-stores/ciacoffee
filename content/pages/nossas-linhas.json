@@ -1,7 +1,7 @@
 {
   "title": "Nossas Linhas",
-  "meta_title": "Linhas Cia Coffee",
-  "meta_description": "Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippeto e o Faria´s Coffee.",
+  "meta_title": "Linhas Cia Blend Coffee",
+  "meta_description": "Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Blend Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippeto e o Faria´s Coffee.",
   "sections": [
     {
       "type": "banner-slider",
@@ -73,5 +73,5 @@
       "enabled": true
     }
   ],
-  "body": "<!--StartFragment-->\n\n<div> <br> <br> \n\n<body> <p><font color=\"#fff\">Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippeto e o Faria´s Coffee.</p></body> \n\n\n\n\n\n<br>\n\n<h1><font color=\"#fff\">C﻿onheça as Linhas de Café da Cia Coffee</h1>\n\n<br>\n\n<!--EndFragment-->"
+  "body": "<!--StartFragment-->\n\n<div> <br> <br> \n\n<body> <p><font color=\"#fff\">Criada a partir da paixão de 3 amigos por novos sabores de café, a Cia Blend Coffee investe em qualidade absoluta para entregar para você sabores únicos em três linhas de café: A Coffee, Filippeto e o Faria´s Coffee.</p></body> \n\n<br>\n\n<h1><font color=\"#fff\">C﻿onheça as Linhas de Café da Cia Blend Coffee</h1>\n\n<br>\n\n<!--EndFragment-->"
 }
