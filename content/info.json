@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": " Frete grátis para todo o Brasil nas compras a partir de R$100",
+    "text": " Frete grátis para todo o Brasil nas compras a partir de R$150",
     "title": "Envio Rápido e Seguro para Todo Brasil",
     "link": "https://ciacoffee.com.br/pages/faq"
   },
@@ -17,7 +17,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Frete grátis a partir de R$100 ",
+    "text": "Frete grátis a partir de R$150 ",
     "title": "Assinatura com 25% de desconto nos produtos",
     "link": "https://www.ciacoffee.com.br/pages/cia-coffee-club-seu-clube-de-assinaturas-de-cafe"
   }
