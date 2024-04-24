@@ -39,7 +39,7 @@
         {
           "start": "2022-10-31T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/fachada-desktop.jpg",
+          "img": "/img/uploads/__fachadadesktop.webp",
           "mobile_img": "/img/uploads/fachada-mobile.jpg"
         }
       ]
@@ -89,7 +89,7 @@
       "page": 1,
       "collection_id": "635c64e273321213f8c1b578:brands:Combos Cia Coffee:/combos-cia-coffee",
       "sort": "sales",
-      "title": "Combos Cia Cofffee ",
+      "title": "Combos Cia Blend Coffee ",
       "link": "https://ciacoffee.com.br/combos-cia-coffee"
     },
     {
@@ -104,8 +104,9 @@
         {
           "start": "2022-10-20T03:00:00.000Z",
           "end": "",
-          "img": "/img/uploads/__3-desktop.webp",
-          "link": "https://ciacoffee.com.br/capsulas"
+          "img": "/img/uploads/rodape-capsulas-cia-blend-coffee-desktop-copiar.jpg",
+          "link": "https://ciacoffee.com.br/capsulas",
+          "mobile_img": "/img/uploads/rodape-capsulas-cia-blend-coffee-mobile-copiar.jpg"
         }
       ]
     },
