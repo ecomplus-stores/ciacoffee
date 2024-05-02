@@ -113,10 +113,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "..."
     }
   ]
 }
