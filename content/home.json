@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-05-01T03:00:00.000Z",
+          "end": "2024-05-31T03:00:00.000Z",
+          "img": "/img/uploads/banner-site-dia-das-maes-copiar.jpg",
+          "link": "https://www.ciacoffee.com.br/capsulas",
+          "mobile_img": "/img/uploads/banner-site-promocao-dia-das-maes-mobile-copiar.jpg"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-inicial-cia-blend-coffee-copiar.jpg",
