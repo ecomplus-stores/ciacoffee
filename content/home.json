@@ -10,13 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-clube-cia-blend-coffee-2-copiar.jpg",
-          "mobile_img": "/img/uploads/banner-clube-cia-blend-coffee-2-mobile-copiar.jpg",
-          "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/banner-capsulas-copiar.jpg",
           "mobile_img": "/img/uploads/banner-capsulas-mobile-copiar.jpg"
         },
@@ -25,6 +18,13 @@
           "end": "",
           "img": "/img/uploads/banner-combos-copiar.jpg",
           "mobile_img": "/img/uploads/banner-combos_mobile-copiar.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-clube-cia-blend-coffee-2-copiar.jpg",
+          "mobile_img": "/img/uploads/banner-clube-cia-blend-coffee-2-mobile-copiar.jpg",
+          "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
         }
       ]
     },
