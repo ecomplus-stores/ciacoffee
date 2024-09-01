@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-09-01T17:30:13.004Z",
+          "end": "2024-10-01T03:00:00.000Z",
+          "img": "/img/uploads/banner-kitdegustacao-copiar-1-.jpg",
+          "link": "https://www.ciacoffee.com.br/kit-do-consumidor-25off",
+          "mobile_img": "/img/uploads/banner-kitdegustacao-mobile-copiar-1-.jpg"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-lancamento-granreserva-copiar.jpg",
@@ -32,13 +39,6 @@
           "img": "/img/uploads/banner-clube-cia-blend-coffee-2-copiar.jpg",
           "mobile_img": "/img/uploads/banner-clube-cia-blend-coffee-2-mobile-copiar.jpg",
           "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
-        },
-        {
-          "start": "2024-09-01T03:00:00.000Z",
-          "end": "2024-10-01T03:00:00.000Z",
-          "img": "/img/uploads/banner-kitdegustacao-copiar-1-.jpg",
-          "link": "https://www.ciacoffee.com.br/kit-do-consumidor-25off",
-          "mobile_img": "/img/uploads/banner-kitdegustacao-mobile-copiar-1-.jpg"
         }
       ]
     },
