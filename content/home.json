@@ -15,6 +15,13 @@
           "mobile_img": "/img/uploads/banner-kitdegustacao-mobile-copiar-1-.jpg"
         },
         {
+          "start": "2024-09-15T03:00:00.000Z",
+          "end": "2024-10-20T03:00:00.000Z",
+          "img": "/img/uploads/banner-cursobarista-copiar.jpg",
+          "link": "https://www.ciacoffee.com.br/curso-barista---bares-sp",
+          "mobile_img": "/img/uploads/banner-barista-mobile-copiar.jpg"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-lancamento-granreserva-copiar.jpg",
@@ -39,13 +46,6 @@
           "img": "/img/uploads/banner-clube-cia-blend-coffee-2-copiar.jpg",
           "mobile_img": "/img/uploads/banner-clube-cia-blend-coffee-2-mobile-copiar.jpg",
           "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
-        },
-        {
-          "start": "2024-09-15T03:00:00.000Z",
-          "end": "2024-10-20T03:00:00.000Z",
-          "img": "/img/uploads/banner-cursobarista-copiar.jpg",
-          "link": "https://www.ciacoffee.com.br/curso-barista---bares-sp",
-          "mobile_img": "/img/uploads/banner-barista-mobile-copiar.jpg"
         }
       ]
     },
