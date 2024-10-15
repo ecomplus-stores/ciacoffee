@@ -8,6 +8,14 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-10-15T11:01:05.449Z",
+          "end": "2024-10-31T03:00:00.000Z",
+          "img": "/img/uploads/banner-niver-cia-blend-coffee-copiar.jpg",
+          "link": "https://www.ciacoffee.com.br/todos-cia-coffee",
+          "alt": "Aniversário Cia Blend Coffee - 25% em todo o site",
+          "mobile_img": "/img/uploads/banner-mobile-niver-cia-blend-coffee-copiar.jpg"
+        },
+        {
           "start": "2024-09-15T03:00:00.000Z",
           "end": "2024-10-20T03:00:00.000Z",
           "img": "/img/uploads/banner-cursobarista-copiar.jpg",
