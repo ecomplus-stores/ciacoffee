@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete grátis para pedidos acima de R$100",
+    "text": "Frete grátis para pedidos acima de R$150 (Sudeste) e R$200 (Demais Regiões)",
     "title": "Envio Rápido e Seguro para todo Brasil",
     "link": "https://ciacoffee.com.br/pages/faq"
   },
@@ -17,7 +17,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Frete grátis para pedidos acima de R$100",
+    "text": "Frete grátis para pedidos acima de R$150",
     "title": "Assinatura com 25% de desconto nos produtos",
     "link": "https://www.ciacoffee.com.br/pages/cia-coffee-club-seu-clube-de-assinaturas-de-cafe"
   }
