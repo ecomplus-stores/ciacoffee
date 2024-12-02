@@ -8,18 +8,10 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-11-22T03:00:00.000Z",
-          "end": "2024-12-01T02:59:00.000Z",
-          "img": "/img/uploads/banner-blackfriday-copiar.jpg",
-          "mobile_img": "/img/uploads/banner-blackfriday-mobile-copiar.jpg"
-        },
-        {
-          "start": "2024-11-01T20:44:36.824Z",
-          "end": "2024-11-30T03:00:00.000Z",
-          "img": "/img/uploads/banner-latrattoria-copiar.jpg",
-          "link": "https://www.ciacoffee.com.br/pages/voucher-la-trattoria-federacao-paulista-de-golfe",
-          "alt": "Voucher La Trattoria - Federação Paulista de Golfe",
-          "mobile_img": ""
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-capsulas-copiar.jpg",
+          "mobile_img": "/img/uploads/banner-capsulas-mobile-copiar.jpg"
         },
         {
           "start": "",
@@ -27,12 +19,6 @@
           "img": "/img/uploads/banner-lancamento-granreserva-copiar.jpg",
           "mobile_img": "/img/uploads/banner-lancamento-granreserva-mobile-copiar.jpg",
           "link": "https://www.ciacoffee.com.br/gran-reserva"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-capsulas-copiar.jpg",
-          "mobile_img": "/img/uploads/banner-capsulas-mobile-copiar.jpg"
         },
         {
           "start": "",
