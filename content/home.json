@@ -38,6 +38,13 @@
           "img": "/img/uploads/banner-clube-cia-blend-coffee-2-copiar.jpg",
           "mobile_img": "/img/uploads/banner-clube-cia-blend-coffee-2-mobile-copiar.jpg",
           "link": "https://www.ciacoffee.com.br/todos-cia-coffee"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-parceria-chocolate-copiar.jpg",
+          "link": "https://www.ciacoffee.com.br/chocolates-finos",
+          "mobile_img": "/img/uploads/banner-parceria-chocolate-mobile-copiar.jpg"
         }
       ]
     },
