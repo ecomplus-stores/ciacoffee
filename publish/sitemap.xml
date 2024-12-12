@@ -344,6 +344,12 @@
     </url>
   
     <url>
+      <loc>https://ciacoffee.com.br/pages/cupom-primeira-compra</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://ciacoffee.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -351,12 +357,6 @@
   
     <url>
       <loc>https://ciacoffee.com.br/pages/nossas-linhas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://ciacoffee.com.br/pages/cupom-primeira-compra</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
