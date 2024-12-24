@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "Informamos que, devido às festividades de fim de ano, todos os pedidos realizados em nosso site serão despachados a partir do dia 06/01. Agradecemos pela compreensão!",
     "link": "",
-    "background": "",
-    "color": ""
+    "background": "#000000",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
