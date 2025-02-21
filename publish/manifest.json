@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f104ec063fb693d730eb606e31e1e41b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.6d64226faa36d6f9751446441e7eb5df.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.864b3342d752bd52d0d42aa94cc13fd9.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.cf6032c54a84aa0982b3e5624be66cf0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.8486f54257ff5afe2f2b91477e782729.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Cia Blend Coffee ",
+  "short_name": "Cia Blend Coffee",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Cia Blend Coffee é impulsionada pela paixão de criar experiências excepcionais a cada xícara, proporcionando momentos únicos e especiais aos nossos clientes. Nossos cafés especiais oferecem uma verdadeira jornada sensorial, estimulando todos os sentidos. Desde a cuidadosa seleção dos grãos até o momento em que são servidos em sua xícara, nosso compromisso com a qualidade, sustentabilidade e inovação orienta cada etapa do processo. Estamos aqui para celebrar a riqueza e a complexidade do café, compartilhando essa paixão com o mundo.",
+  "background_color": "#ffffff",
+  "theme_color": "#291010"
+}
